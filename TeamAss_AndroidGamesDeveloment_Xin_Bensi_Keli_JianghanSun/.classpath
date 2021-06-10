@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="android/build/generated/not_namespaced_r_class_sources/debug/r"/>
+	<classpathentry kind="src" path="android/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="android/src"/>
+	<classpathentry kind="src" path="core/src"/>
+	<classpathentry kind="src" path="desktop/src"/>
+	<classpathentry kind="src" path="html/src"/>
+	<classpathentry kind="src" path="ios/src"/>
+	<classpathentry kind="lib" path="android/build/intermediates/merged_java_res/debug/out.jar"/>
+	<classpathentry kind="lib" path="core/build/libs/core-1.0.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="android/build/intermediates/javac/debug/classes"/>
+</classpath>
